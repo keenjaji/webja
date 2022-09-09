@@ -1,4 +1,5 @@
 import React from 'react'
-import {EventData1}  from './event-data'
-export default 
-function App() {return <EventData1/> }
+import RefsArray from './refs-array'
+export default function App() {
+return <RefsArray/> 
+}
